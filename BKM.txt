@@ -1,4 +1,15 @@
 
+TensorFlow in 5 minutes
+
+Introduction to tensorflow and how it works.
+
+ref:
+https://www.youtube.com/watch?v=2FmcHiLCwTU
+
+
+
+
+
 Building a Real-Time Object Recognition App with Tensorflow and openCV
 
 steps:
@@ -10,4 +21,8 @@ steps:
 
 ref:
 https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32
+
+
+
+
 
