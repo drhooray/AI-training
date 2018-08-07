@@ -1,0 +1,13 @@
+
+Building a Real-Time Object Recognition App with Tensorflow and openCV
+
+steps:
+1. Import the required packages 
+2. Define some variables
+3. Download the frozen model(.pb) and load it into memory
+4. Loading some translator
+
+
+ref:
+https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32
+
