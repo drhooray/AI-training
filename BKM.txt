@@ -37,4 +37,15 @@ ref:
 https://www.youtube.com/watch?v=QfNvhPx5Px8&vl=en
 
 
+#
+# Using openCV to classfiy object
+#
+
+
+ref:
+https://www.learnopencv.com/image-recognition-and-object-detection-part1/
+
+
+
+
 
