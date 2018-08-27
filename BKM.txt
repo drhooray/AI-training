@@ -33,6 +33,9 @@ https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-
 
 teach you how to build a .pb
 
+download images plugin : Fatkun batch download image
+
+
 ref:
 https://www.youtube.com/watch?v=QfNvhPx5Px8&vl=en
 
