@@ -1,5 +1,5 @@
 
-#
+
 # TensorFlow in 5 minutes
 #
 
@@ -47,5 +47,12 @@ https://www.learnopencv.com/image-recognition-and-object-detection-part1/
 
 
 
+#
+# How to train your own model via tensorflow
+#
 
-
+ref:
+https://hk.saowen.com/a/5e9edb771060eac5c435cc3dac5a16493456d2a9274fdfbd6ed9dd92a0384aaf
+https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/407736/
+https://blog.gtwang.org/programming/tensorflow-object-detection-api-custom-object-model-training-tutorial/
+https://github.com/tzutalin/labelImg
