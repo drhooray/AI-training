@@ -1,0 +1,21 @@
+
+
+# No module named 'object_detection'
+
+ref : 
+https://github.com/tensorflow/models/issues/3259
+
+in 'models/research' directory run
+'python setup.py build'
+'python setup.py install'
+go into the 'models/research/slim' run
+'pip install -e .'
+
+
+ref:
+https://github.com/tensorflow/models/issues/2031
+
+
+
+
+
