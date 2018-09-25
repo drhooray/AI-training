@@ -16,6 +16,11 @@ ref:
 https://github.com/tensorflow/models/issues/2031
 
 
+# cannot import name 'anchor_generator_pb2'
+
+ref:
+https://github.com/tensorflow/models/issues/1962
+
 
 
 
