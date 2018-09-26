@@ -72,3 +72,14 @@ https://www.tensorflow.org/hub/installation
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/image_retraining
 
 most issue will be solved in tutorials so following this.
+
+#
+# make TFRecord
+#
+
+ref:
+https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-2-converting-dataset-to-tfrecord-47f24be9248d
+
+
+
+
