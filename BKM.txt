@@ -81,5 +81,13 @@ ref:
 https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-2-converting-dataset-to-tfrecord-47f24be9248d
 
 
+#
+# classify crumpled clothing
+#
+
+ref:
+https://link.springer.com/article/10.1007/s10514-016-9559-z
+
+
 
 
