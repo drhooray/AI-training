@@ -88,6 +88,10 @@ https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tuto
 ref:
 https://link.springer.com/article/10.1007/s10514-016-9559-z
 
+https://www.semanticscholar.org/paper/Instance-recognition-of-clumped-clothing-using-on-Yamazaki/d56037aa4c3d82ab99f01981590106ac00891bfe
+
+
+
 
 
 
