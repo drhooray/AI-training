@@ -1,0 +1,12 @@
+
+#
+#
+#
+
+following this method:
+https://github.com/shuwang127/SRCNN_Cpp
+
+it will show link error like this:
+https://stackoverflow.com/questions/24337932/cannot-get-opencv-to-compile-because-of-undefined-references
+
+
