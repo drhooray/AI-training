@@ -10,3 +10,13 @@ it will show link error like this:
 https://stackoverflow.com/questions/24337932/cannot-get-opencv-to-compile-because-of-undefined-references
 
 
+
+#
+# Computer vision
+#
+
+https://github.com/jbhuang0604/awesome-computer-vision
+
+
+
+
